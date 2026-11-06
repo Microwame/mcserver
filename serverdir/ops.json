@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "279a8af7-4044-4ebc-8714-e7cae7f141d5",
+    "name": "Microwame",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
